@@ -1,7 +1,14 @@
 48bcf5ebb6effdaffbc2f725aae954f764d25341/kafka-clients-2.0.0.jar
-9ef741135d2e869a022c66de65c1c08adc375077/kafka-clients-0.8.2.1.jar
-d2848eba62df4f650702b62a85bf2f5b8491c66d/kafka-clients-0.8.2.1.pom
-3d3e18d9d6286e4dc0453af923696023eca88053/kafka-clients-2.0.0.pom
 3d3e18d9d6286e4dc0453af923696023eca88053/kafka-clients-2.0.0.pom
 9ef741135d2e869a022c66de65c1c08adc375077/kafka-clients-0.8.2.1.jar
 d2848eba62df4f650702b62a85bf2f5b8491c66d/kafka-clients-0.8.2.1.pom
+3dd2aa4c9f87ac54175d017bcb63b4bb5dca63dd/kafka-clients-0.10.2.1.jar
+4ce451d7d244fd6455d2fe73cc25b05ff2e4e6dd/kafka-clients-0.11.0.2.jar
+a4903cb5fe087be183a50f6c2b08483cff1e8444/kafka-clients-0.8.2.2.jar
+5a8947440a048280a4314949771769bb425c12ce/kafka-clients-0.9.0.1.jar
+db87f87e64714faff9c90fdc97a06c7d8e79b672/kafka-clients-2.0.1.jar
+c59a9e9e914d60017b82736432dab179b13f8b0c/kafka-clients-0.10.2.1.pom
+cc06dba9f428a72ee44ec004f8583b2b251f038c/kafka-clients-0.11.0.2.pom
+0a5a225442a7131a1985ca60eac728e2b4689e0b/kafka-clients-0.8.2.2.pom
+0ddbc574e4de3c46ea15940b5dbe2417dab096f6/kafka-clients-0.9.0.1.pom
+b33919b0250e86a622474c5009c0ad41f776a813/kafka-clients-2.0.1.pom
